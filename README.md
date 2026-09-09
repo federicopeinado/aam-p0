@@ -1,6 +1,6 @@
-# deck-base
+# aam-p0
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narratech/deck-base/blob/main/deck-base.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/federicopeinado/aam-p0/blob/main/aam-p0.ipynb)
 
 Este repositorio contiene el punto de partida para la práctica [Análisis de Mazos de Magic](https://narratech.com/es/aprendizaje-automatico-y-mineria-de-datos/introduccion/analisis-de-mazos-de-magic/) de la asignatura Aprendizaje Automático y Minería de Datos. 
 
